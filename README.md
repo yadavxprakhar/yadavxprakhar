@@ -93,15 +93,11 @@ public class Prakhar {
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=yadavxprakhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yadavxprakhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170"/>
+![](https://github-readme-stats.shion.dev/api?username=yadavxprakhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-</div>
+![](https://streak-stats.demolab.com/?user=yadavxprakhar&theme=dark&hide_border=false)
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yadavxprakhar&theme=dark&hide_border=false" height="170"/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yadavxprakhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
