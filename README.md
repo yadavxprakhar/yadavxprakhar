@@ -1,10 +1,7 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Prakhar+%F0%9F%91%8B;Final+Year+CS+Student;Java+Full+Stack+Developer;Building+things+that+matter." alt="Typing SVG" /></a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=yadavxprakhar&color=6366f1&style=flat-square&label=Profile+Views)
+# Hi, I'm Prakhar 👋
+### Final Year CS Student · Java Full Stack Developer · New Delhi, India
 
 </div>
 
@@ -96,14 +93,15 @@ public class Prakhar {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yadavxprakhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavxprakhar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yadavxprakhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavxprakhar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavxprakhar&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=yadavxprakhar&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
