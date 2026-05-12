@@ -66,26 +66,11 @@ public class Prakhar {
 
 ---
 
-### 🧩 [DSA Solutions](https://github.com/yadavxprakhar/DSA-Solutions)
-> Daily **LeetCode & GFG** solutions — focused on patterns, not just answers.
-
-- **Stack:** Python · Java
-- Interview-pattern-driven approach · Consistent daily practice
-
----
-
 ### 🌐 [Portfolio Website](https://github.com/yadavxprakhar/portfolio-website)
 > My personal **developer portfolio** — built for performance and aesthetics.
 
 - **Stack:** Next.js · TypeScript · Tailwind CSS · Framer Motion
 - Responsive · Smooth animations · Developer-first design
-
----
-
-### 📦 [Project Vault](https://github.com/yadavxprakhar/project-vault)
-> A curated **collection of project ideas & learning resources** organized by skill level.
-
-- Great starting point for developers at any stage
 
 ---
 
