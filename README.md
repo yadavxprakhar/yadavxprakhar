@@ -13,7 +13,7 @@
 public class Prakhar {
 
     String name        = "Prakhar Yadav";
-    String role        = "Final Year CS Student | Java Full Stack Developer";
+    String role        = "CS Graduate | Java Full Stack Developer";
     String location    = "New Delhi, India 🇮🇳";
     String[] current   = {"DSA grind", "Spring Boot APIs", "Exploring Spring AI"};
     String[] goals     = {"SDE @ Product Company", "Startup Engineering"};
