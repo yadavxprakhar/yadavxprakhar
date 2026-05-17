@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Prakhar 👋
-### Final Year CS Student · Java Full Stack Developer · New Delhi, India
+### CS Graduate · Java Full Stack Developer · New Delhi, India
 
 </div>
 
